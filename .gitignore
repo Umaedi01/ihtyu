@@ -1,0 +1,15 @@
+.idea/
+.history/
+node_modules/
+*/.idea/
+*/node_modules/
+analyzer/
+*/analyzer/
+.DS_Store
+*/.DS_Store
+/esm
+/view/esm
+/dist
+/analyzer
+
+

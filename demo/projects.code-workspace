@@ -1,0 +1,23 @@
+{
+	"folders": [
+    {
+			"path": "./",
+      "name": "工作区"
+		},
+    {
+			"path": "./demo_common_modules",
+      "name": "公共模块"
+		},
+		{
+			"path": "./demo_share_modules",
+      "name": "共享模块"
+		},
+	  {
+			"path": "./demo_remote_view",
+      "name": "RemoteView示例"
+		},
+	],
+	"settings": {
+		"javascript.implicitProjectConfig.experimentalDecorators": true
+	}
+}
